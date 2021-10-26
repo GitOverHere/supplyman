@@ -1,0 +1,212 @@
+html css {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.header {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 10%;
+	display: flex;
+	justify-content: center;	
+	background-color: white;
+	
+}
+
+
+
+.color-bar {
+background-color: #511378;
+width: 100%;
+height: 5%;
+	
+}
+
+
+.links {
+	display: flex;
+	color: white;
+	text-decoration: none;
+	width: 30%;
+	justify-content: space-between;
+	align-content: center;
+	justify-content: center;
+}
+
+.links a {
+	
+	
+	
+}
+
+
+
+.links a:hover {
+	
+		-webkit-transition: 0.3s ease;
+		transition: 0.3s ease;
+color: #511378;
+	
+	
+}
+
+.logo {
+	height: 80%;
+	width: 20%;
+}
+
+.login_area {
+	width: 20%;
+	height: 80%;
+	
+	
+	
+}
+
+
+.sign_in {
+	color: white;
+	border-radius: 3px;
+	background-color: #511378;
+	
+	
+}
+
+
+.sign_up {
+	
+	color: white;
+	border-radius: 3px;
+	background-color: #511378;
+	box-shadow: 0  0  3px 3px #511378;
+	
+	
+}
+
+.heading {
+	text-align: center;
+	color: #ffd900;
+text-decoration: none;
+font-size: 5vh;
+
+}
+
+h1 {
+color: #ffd900;
+text-decoration: none;
+font-size: 5vh;
+	
+	
+}
+
+h2 h3 h4 h5 h6 {
+color: #ffd900;
+text-decoration: none;
+font-size: 3vh;
+	
+	
+}
+
+p {
+	font-size: 2vh;
+
+	
+}
+
+.text-container{
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	text-align: center;
+	width: 70%;
+	height: 80%;
+	margin: 0 auto;
+}
+
+.text-container > * {
+
+
+	
+}
+
+
+
+
+
+
+.description {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	margin-top: 2vh;
+	width: 100%;
+	height: 50%;
+	background-color: #511378;
+	color: #511378;
+	float: center;
+	display: flex;
+	text-align: center;
+	margin: 0 auto;
+	background: no-repeat url("yellow and purple.png")
+	
+	
+}
+
+.why-us{
+	justify-content: center;
+	background-color: white;
+    width: 100%;
+}
+
+.grid {
+   width: 100%;
+	height: 100%;
+	display: grid;
+	margin: 2vh;
+	flex-wrap: wrap;
+	grid-template-columns: 100%;
+	grid-template-rows: auto;
+}
+
+.item {
+	width: 30%;
+	background-color: #511378;
+	color: #ffd900;
+	padding: 4vh;
+	margin-top: 2vh;
+	margin-bottom: 1vh;
+	margin-right: 2vh;
+	margin-left: 2vh;
+	height: auto;
+}
+
+.color {
+	
+	
+
+
+}
+
+
+.big_button {
+	width: 10vh;
+	height: 2vh;
+	
+}
+
+.calltoaction {
+	
+	width: 100%;
+	height: 50%;
+	
+}
+
+
+
+
+
+
+
